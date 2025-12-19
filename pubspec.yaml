@@ -1,4 +1,4 @@
-name: core
+name: core_app
 description: Core module dùng chung cho các app Flutter của bạn
 version: 1.0.0
 
